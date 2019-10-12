@@ -1,0 +1,12 @@
+{
+    "name": "seventhgreen/birdiebook",
+    "description": "This is a TYPO3 Extension that presents a golf course",
+    "type": "typo3-cms-extension",
+    "authors": [
+        {
+            "name": "Tomas Norre Mikkelsen",
+            "email": "tomasnorre@gmail.com"
+        }
+    ],
+    "require": {}
+}
